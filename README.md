@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="./images/logo.svg" width="500">
+  <!-- <img src="./images/logo.svg" width="500"> -->
   <br>
   Hi, i'm Carlos Eduardo - aka Kadu!
 </h1>
@@ -141,7 +141,7 @@ Java                         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 🔥 Editors: 
 Vs Code                  46 hrs 6 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   95.49% 
-Notepad++                2 hrs 4 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.50% 
+Notepad++                2 hrs 4 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.51% 
 
 ```
 
@@ -154,6 +154,9 @@ Notepad++                2 hrs 4 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <p align="center">
   <a href="https://www.instagram.com/kaduzenti/" target="_blank">
     <code><img src="./images/instagram.svg" alt="kaduzenti" height="30" width="40"/></code>
+  </a>
+  <a href="https://www.linkedin.com/in/carlos-eduardo-b3030722a/" target="_blank">
+    <code><img src="./images/linkedin.svg" alt="Carlos Eduardo" height="30" width="40"/></code>
   </a>
 </p>
 
