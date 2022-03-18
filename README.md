@@ -98,7 +98,7 @@
 <br>
 
 <!-- My activity -->
-<h2>My activity <img src="./images/stats.gif" height="40px"></h2>
+<h2>My activity <img src="./images/stats2.gif" height="40px"></h2>
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br>
