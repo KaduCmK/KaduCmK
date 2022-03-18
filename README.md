@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="./images/logo.svg" width="500">
   <br>
-  Hi, i'm Carlos Eduardo - aka Kadu! <img src="./images/hi.gif" width="30px" height="30px">
+  Hi, i'm Carlos Eduardo - aka Kadu!
 </h1>
 
 <!-- Counter -->
