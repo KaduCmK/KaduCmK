@@ -89,8 +89,8 @@
     <code><img src="./images/nest.svg" alt="NestJS" height="40"/></code>
   </a>
   <br>
-  <a href="https://www.mysql.com" target="_blank">
-    <code><img src="./images/mysql.svg" alt="MySQL" height="40"/></code>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <code><img src="./images/postgres.svg" alt="MySQL" height="40"/></code>
   </a>
 </p>
 
